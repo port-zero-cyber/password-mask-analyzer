@@ -14,20 +14,20 @@ A password mask (pattern) provides insight into the structure of a password. Thi
 
 ?s — Special characters (all non-alphanumeric)
 
-# Example
+Example
 
 Password: P@ssw0rd!23$
 Mask: ?u?s?l?l?l?d?l?l?s?d?d?s
 
 ## How to Use
 
-# 1. Clone the repository:
+#1. Clone the repository:
 git clone https://github.com/port-zero-cyber/password-mask-analyzer.git
 cd password-mask-analyzer
-# 2. Add or replace the 'realistic_mixed_length_passwords.txt' file with your own list of passwords.
-# 3. Run the script:
+#2. Add or replace the 'realistic_mixed_length_passwords.txt' file with your own list of passwords.
+#3. Run the script:
 python3 password_mask_counter.py
-# 4. Output example:
+#4. Output example:
 Top 3 Password Masks
 --------------------
 1. ?d?d?d?d?d?d   : 5
