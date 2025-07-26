@@ -17,6 +17,7 @@ A password mask (pattern) provides insight into the structure of a password. Thi
 #Example
 
 Password: P@ssw0rd!23$
+
 Mask: ?u?s?l?l?l?d?l?l?s?d?d?s
 
 ## How to Use
