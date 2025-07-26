@@ -22,19 +22,19 @@ Mask: ?u?s?l?l?l?d?l?l?s?d?d?s
 
 ## How to Use
 
-#Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/port-zero-cyber/password-mask-analyzer.git
+ git clone https://github.com/port-zero-cyber/password-mask-analyzer.git
 
-cd password-mask-analyzer
+ cd password-mask-analyzer
 
-#Add or replace the 'realistic_mixed_length_passwords.txt' file with your own list of passwords.
+2. Add or replace the 'realistic_mixed_length_passwords.txt' file with your own list of passwords.
 
-#Run the script:
+3. Run the script:
 
-python3 password_mask_counter.py
+ python3 password_mask_counter.py
 
-# Output example:
+# Output Example:
 
 Top 3 Password Masks
 --------------------
